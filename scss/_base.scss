@@ -1,0 +1,40 @@
+/*color*/
+$color-light: #f9f9f9;
+$color-black: #000;
+$color-pink:#620B37;
+$color-white: #fff;
+$color-dark-grey: #555;
+$color-light-grey: rgba(255, 255, 255, 0.74);
+$color-light-pink: pink;
+
+$color-background:#e9d8e0;
+$color-hover-pink:rgba(245, 220, 220, 0.555);
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: $color-background;
+    display: grid;
+    justify-content: center;
+}
+
+
+@mixin flexLayout() {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* mixin card-images
+@mixin image-style($ul, $size, $repeat, $positionX: 50%, $positionY: 50%){
+    background-image: url($ul);
+    background-size: $size;
+    background-repeat: $repeat;
+    background-position: $positionX $positionY;
+}
+*/

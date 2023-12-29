@@ -1,0 +1,241 @@
+
+[
+    {
+        "id": 1,
+        "name": "Lipgloss Cristal",
+        "type": "Limited-Edition",
+        "describe": "Gloss Bomb universal lip luminizer",
+        "text": "The ultimate gotta-have-it lip gloss with explosive shine that feels as good as it looks.",
+        "price": "€ 39,00",
+        "tax": "(inclusive 21%)",
+        "stock": "75"
+        
+    },
+    {
+        "id": 2,
+        "name": "Lipgloss Champagne",
+        "type": "Limited-Edition",
+        "describe": "Gloss Bomb universal lip luminizer",
+        "text": "The ultimate gotta-have-it lip gloss with explosive shine that feels as good as it looks.",
+        "price": "€ 39,00",
+        "tax": "(inclusive 21%)",
+        "stock": "98"
+        
+    },
+    {
+        "id": 3,
+        "name": "Lipgloss Coldheart",
+        "type": "Limited-Edition",
+        "describe": "Gloss Bomb universal lip luminizer",
+        "text": "Clear lip gloss that delivers a refreshing, instant minty cooling effect and gives you a juicy, wet-look shine finish.",
+        "price": "€ 39,00",
+        "tax": "(inclusive 21%)",
+        "stock": "106"
+    
+    },
+        {
+        "id": 4,
+        "name": "Lipgloss FentyGlow",
+        "type": "Cream",
+        "describe": "GLOSS BOMB CREAM COLOR DRIP LIP CREAM",
+        "text": "Our #1 gloss—now with pure, creamy color and incredible shine. Lips are instantly smoother and more voluminous-looking.",
+        "price": "€ 27,00",
+        "tax": "(inclusive 21%)",
+        "stock": "115"
+    },
+    {
+        "id": 5,
+        "name": "Lipgloss Honey",
+        "type": "Cream",
+        "describe": "GLOSS BOMB CREAM COLOR DRIP LIP CREAM",
+        "text": "Our #1 gloss—now with pure, creamy color and incredible shine. Lips are instantly smoother and more voluminous-looking.",
+        "price": "€ 27,00",
+        "tax": "(inclusive 21%)",
+        "stock": "120"
+    },
+    {
+        "id": 6,
+        "name": "Lipgloss Berry",
+        "type": "Cream",
+        "describe": "GLOSS BOMB CREAM COLOR DRIP LIP CREAM",
+        "text": "Our #1 gloss—now with pure, creamy color and incredible shine. Lips are instantly smoother and more voluminous-looking.",
+        "price": "€ 27,00",
+        "tax": "(inclusive 21%)",
+        "stock": "135"
+    },
+    {
+        "id": 7,
+        "name": "Lipgloss Cookie",
+        "type": "Cream",
+        "describe": "GLOSS BOMB CREAM COLOR DRIP LIP CREAM",
+        "text": "Our #1 gloss—now with pure, creamy color and incredible shine. Lips are instantly smoother and more voluminous-looking.",
+        "price": "€ 27,00",
+        "tax": "(inclusive 21%)",
+        "stock": "125"
+    },
+    {
+        "id": 8,
+        "name": "Lipgloss Mauves",
+        "type": "Cream",
+        "describe": "GLOSS BOMB CREAM COLOR DRIP LIP CREAM",
+        "text": "Our #1 gloss—now with pure, creamy color and incredible shine. Lips are instantly smoother and more voluminous-looking.",
+        "price": "€ 27,00",
+        "tax": "(inclusive 21%)",
+        "stock": "123"
+    },
+    {
+        "id": 9,
+        "name": "Lipgloss Clear",
+        "type": "Heat",
+        "describe": "GLOSS BOMB HEAT UNIVERSAL LIP LUMINIZER + PLUMPER",
+        "text": "Hybrid lip gloss and plumper delivers a hint of tint and fuller-looking lips.",
+        "price": "€ 32,00",
+        "tax": "inclusive 21%",
+        "stock": "127"
+    },
+    {
+        "id": 10,
+        "name": "Lipgloss Fu$y",
+        "type": "Heat",
+        "describe": "GLOSS BOMB HEAT UNIVERSAL LIP LUMINIZER + PLUMPER",
+        "text": "Hybrid lip gloss and plumper delivers a hint of tint and fuller-looking lips.",
+        "price": "€ 32,00",
+        "tax": "inclusive 21%",
+        "stock": "110"
+    },
+    {
+        "id": 11,
+        "name": "Lipgloss Glow",
+        "type": "Heat",
+        "describe": "GLOSS BOMB HEAT UNIVERSAL LIP LUMINIZER + PLUMPER",
+        "text": "Hybrid lip gloss and plumper delivers a hint of tint and fuller-looking lips.",
+        "price": "€ 32,00",
+        "tax": "inclusive 21%",
+        "stock": "93"
+    },
+    {
+        "id": 13,
+        "name": "Lipgloss Hot Chocolit",
+        "type": "Heat",
+        "describe": "GLOSS BOMB HEAT UNIVERSAL LIP LUMINIZER + PLUMPER",
+        "text": "Hybrid lip gloss and plumper delivers a hint of tint and fuller-looking lips.",
+        "price": "€ 32,00",
+        "tax": "inclusive 21%",
+        "stock": "56"
+    },
+    {
+        "id": 14,
+        "name": "Lipgloss Lemon",
+        "type": "Heat",
+        "describe": "GLOSS BOMB HEAT UNIVERSAL LIP LUMINIZER + PLUMPER",
+        "text": "Hybrid lip gloss and plumper delivers a hint of tint and fuller-looking lips.",
+        "price": "€ 32,00",
+        "tax": "inclusive 21%",
+        "stock": "76"
+    },
+    {
+        "id": 15,
+        "name": "Lipstick Retro Rose",
+        "type": "Shiny",
+        "describe": "SLIP SHINE SHEER SHINY LIPSTICK",
+        "text": "Ultra comfortable, sheer lipstick infused with pomegranate for the perfect amount of nourishing color and shine.",
+        "price": "€ 29,00",
+        "tax": "inclusive 21%",
+        "stock": "55"
+    },
+    {
+        "id": 16,
+        "name": "Lipstick Glazed",
+        "type": "Shiny",
+        "describe": "SLIP SHINE SHEER SHINY LIPSTICK",
+        "text": "Ultra comfortable, sheer lipstick infused with pomegranate for the perfect amount of nourishing color and shine.",
+        "price": "€ 29,00",
+        "tax": "inclusive 21%",
+        "stock": "46"
+    },
+    {
+        "id": 17,
+        "name": "Lipstick Goji Gang",
+        "type": "Shiny",
+        "describe": "SLIP SHINE SHEER SHINY LIPSTICK",
+        "text": "Ultra comfortable, sheer lipstick infused with pomegranate for the perfect amount of nourishing color and shine.",
+        "price": "€ 29,00",
+        "tax": "inclusive 21%",
+        "stock": "98"
+    },
+    {
+        "id": 18,
+        "name": "Lipstick Cookie & Cocoa",
+        "type": "Shiny",
+        "describe": "SLIP SHINE SHEER SHINY LIPSTICK",
+        "text": "Ultra comfortable, sheer lipstick infused with pomegranate for the perfect amount of nourishing color and shine.",
+        "price": "€ 29,00",
+        "tax": "inclusive 21%",
+        "stock": "57",
+        "imageGloss": [
+            "src/assets/images/lipstick/Lipstick - Cookies & Cocoa.jpg"
+        ],
+        "imageClose": [
+            "src/assets/images/lipstick/close/Lipstick - close - Cookies & Cocoa.jpg"
+        ],
+        "imageLips": [
+            "src/assets/images/lipstick/lips/Lipstick Cookie & Cocoa - lips.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Lipstick Bubble Rum",
+        "type": "Shiny",
+        "describe": "SLIP SHINE SHEER SHINY LIPSTICK",
+        "text": "Ultra comfortable, sheer lipstick infused with pomegranate for the perfect amount of nourishing color and shine.",
+        "price": "€ 29,00",
+        "tax": "inclusive 21%",
+        "stock": 89,
+        "imageGloss": [
+            "src/assets/images/lipstick/Lipstick - Bubble Rum.jpg"
+        ],
+        "imageClose": [
+            "src/assets/images/lipstick/close/Lipstick - close - Bubble Rum.jpg"
+        ],
+        "imageLips": [
+            "src/assets/images/lipstick/lips/Lipstick Bubble Rum - lips.jpg"
+        ]
+    },
+    { 
+        "id": 20,
+        "name": "Lipstick Vamps Who Brunch",
+        "type": "Shiny",
+        "describe": "SLIP SHINE SHEER SHINY LIPSTICK",
+        "text": "Ultra comfortable, sheer lipstick infused with pomegranate for the perfect amount of nourishing color and shine.",
+        "price": "€ 29,00",
+        "tax": "inclusive 21%",
+        "stock": "69",
+        "imageGloss": [
+            "src/assets/images/lipstick/Lipstick - Vamps Who Brunch.jpg"
+        ],
+        "imageClose": [
+            "src/assets/images/lipstick/close/Lipstick - close - Vamps Who - Brunch .jpg"
+        ],
+        "imageLips":[
+            "src/assets/images/lipstick/lips/Lipstick Vamps Who Brunch - lips.jpg"
+        ]
+    }
+    
+]
+
+
+
+  
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
